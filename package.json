@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KIVERSEN86/workflow-lesson/issues"
   },
-  "homepage": "https://github.com/KIVERSEN86/workflow-lesson#readme"
+  "homepage": "https://github.com/KIVERSEN86/workflow-lesson#readme",
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
 }
